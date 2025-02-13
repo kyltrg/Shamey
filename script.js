@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "YESSSSS!!! ILOVEYOUU LOVE LOVE :3";
+  titleElement.innerHTML = "YESSSSS!!! ILOVEYOU SHAMEY!";
   buttonsContainer.classList.add("hidden");
   changeImage("YEYYY");
 }
