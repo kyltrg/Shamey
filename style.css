@@ -23,8 +23,8 @@ body {
 }
 
 .cat-img {
-  width: 236px; /* Resize the image */
-  height: 148px; /* Maintain the aspect ratio */
+  width: 148px; /* Resize the image */
+  height: 236px; /* Maintain the aspect ratio */
   margin-bottom: 2rem;
 }
 
