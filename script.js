@@ -55,9 +55,9 @@ function generateMessage(noCount) {
 
 function changeImage(image) {
   if (image === "YEYYY") {
-    catImg.src = `img/YEYYY.jpg`;
+    catImg.src = `imgg/YEYYY.jpg`;
   } else {
-    catImg.src = `img/love_${image}.jpg`;
+    catImg.src = `imgg/love_${image}.jpg`;
   }
 }
 
